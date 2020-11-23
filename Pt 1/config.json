@@ -1,0 +1,7 @@
+{
+    "token": "BOT TOKEN HERE",
+
+    "settings" : {
+        "prefix" : "!"
+    }
+}
