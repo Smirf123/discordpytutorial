@@ -1,0 +1,7 @@
+{
+    "token": "TOKEN HERE",
+
+    "settings" : {
+        "prefix" : "!"
+    }
+}
